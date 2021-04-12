@@ -1,0 +1,2 @@
+# Fuuka
+Fuuka discord bot
