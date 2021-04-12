@@ -5,6 +5,6 @@ Fuuka can generate various pictures with stylegan2 and answer to your messages w
 ![Instruction 2](Images/2.png?raw=true "выбор GPU")  
 Now run Fuuka by going to Runtime -> Run all.  
 ![Instruction 3](Images/3.png?raw=true "Run all")  
-You need to authorize in Google in the second cell. 
+You need to authorize in Google in the second cell.  
 ![Instruction 4](Images/4.png?raw=true "Link")  
 Done! Enjoy Fuuka!  
